@@ -1,0 +1,12 @@
+body {
+  /* background-image: url("black-damask-background-md.png"); */
+  background-color: #006868;
+}
+div {
+  background-color: rgba(252, 252, 252, 0.3);
+}
+p {
+  font-size: 150%;
+  font-family: Arial, sans-serif;
+}
+
