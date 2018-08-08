@@ -29,7 +29,7 @@ p {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #006868;
     display: block;
     transition: 0.3s;
 }
@@ -41,6 +41,7 @@ p {
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
+    font-size: 30%;
     position: absolute;
     top: 0;
     right: 25px;
@@ -58,4 +59,7 @@ p {
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+}
+#menuButton{
+  font-size: 400%;
 }
